@@ -14,6 +14,6 @@
     Пароль - secret
     Порт - 33100
     
-[VIEW with permissions](https://github.com/websys-forever/work-with-sql/tree/master/view/queries.sql)
+[VIEW with permissions](https://github.com/websys-forever/work_with_sql/tree/main/view)
 
 

@@ -14,6 +14,6 @@
     Пароль - secret
     Порт - 33100
     
-[SELECT queries with JSON function](https://github.com/websys-forever/work-with-sql/tree/master/with_recursive/queries.sql)
+[SELECT queries with JSON function](https://github.com/websys-forever/work_with_sql/tree/main/with_recursive_json)
 
 

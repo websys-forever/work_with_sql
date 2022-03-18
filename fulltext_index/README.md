@@ -14,6 +14,6 @@
     Пароль - secret
     Порт - 33100
     
-[Fulltext index](https://github.com/websys-forever/work-with-sql/tree/master/fulltext_index/queries.sql)
+[Fulltext index](https://github.com/websys-forever/work_with_sql/tree/main/fulltext_index)
 
 
