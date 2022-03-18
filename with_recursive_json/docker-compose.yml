@@ -1,0 +1,14 @@
+version: "3.7"
+services:
+  work-with-mysql:
+    image: mysql:8
+    environment:
+      - MYSQL_ROOT_PASSWORD=secret
+      - MYSQL_DATABASE=shop
+    volumes:
+      - work-with-mysql:/var/lib/mysql
+      - ./init:/docker-entrypoint-initdb.d/
+    ports:
+      - "33100:3306"
+volumes:
+  work-with-mysql:
